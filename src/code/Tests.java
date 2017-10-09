@@ -8,8 +8,8 @@ public class Tests extends Methods{
 	@BeforeTest
 	public void setupbrowser()
 	{
-		//setupff();
-		setupffheadless();
+		setupff();
+		//setupffheadless();
 		
 	}
   @Test

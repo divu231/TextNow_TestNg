@@ -10,4 +10,5 @@ public class Constants {
 	public static String login_id="submitLogin";
 	public static String verify_name=".//div[@class='name']";
 	public static String string_to_verify="Divya patel";
+	//added comment
 }
